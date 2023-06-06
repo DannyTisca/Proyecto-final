@@ -1,6 +1,6 @@
-# Metodología en la identificación de subtipos de cancer de mama
+# Metodología en la identificación de subtipos de cáncer de mama
 
-## Integrantes
+## Integrantes:
 
     - Martínez Piza Erick
     - Ramírez Muñoz Sergio Iván Alejandro
